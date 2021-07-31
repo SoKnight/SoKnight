@@ -1,7 +1,6 @@
 ### Hi there 👋🏻
 
 I am a Java developer and Bukkit plugins coder.
-
 See my pinned repositories to browse my opensource projects.
 
 Learned libraries & frameworks:
