@@ -10,8 +10,7 @@ See my pinned repositories to browse my opensource projects.
 - [Netty IO](https://netty.io/) (good)
 - [Spring Boot](https://spring.io/projects/spring-boot) (good)
 
-### My Activity
-[![SoKnight's GitHub stats](https://github-readme-stats.vercel.app/api?username=soknight&show_icons=true&hide_border=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soknight&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">My Activity</h3>
+<div align="center">  
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=soknight&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</div>
