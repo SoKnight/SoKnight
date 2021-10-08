@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-I am a Java developer and Bukkit plugins coder.
+I am a Java developer and Bukkit plugins coder.<br>
 See my pinned repositories to browse my opensource projects.
 
 ### Learned Libraries and Frameworks
