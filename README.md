@@ -1,7 +1,21 @@
+[vkontakteUrl]: https://vk.me/soknight
+[vkontakteBadge]: https://img.shields.io/static/v1?label=vk&message=write&style=for-the-badge&color=0077FF&logo=vk
+
+[telegramUrl]: https://t.me/soknight
+[telegramBadge]: https://img.shields.io/static/v1?label=telegram&message=write&style=for-the-badge&color=26A5E4&logo=telegram
+
+[twitterUrl]: https://twitter.com/SoKnightMF
+[twitterBadge]: https://img.shields.io/static/v1?label=twitter&message=follow&style=for-the-badge&color=1DA1F2&logo=twitter
+
+[youtubeUrl]: https://www.youtube.com/channel/UCWFASbaejFyNJSa4cjFAOoA
+[youtubeBadge]: https://img.shields.io/static/v1?label=youtube&message=view&style=for-the-badge&color=FF0000&logo=youtube
+
 ## Hi there 👋🏻
 
 I am a Java developer and Bukkit plugins coder.<br>
 See my pinned repositories to browse my opensource projects.
+
+[![vkontakteBadge]][vkontakteUrl] [![telegramBadge]][telegramUrl] [![twitterBadge]][twitterUrl] [![youtubeBadge]][youtubeUrl]
 
 ### My activity
 <div>  
