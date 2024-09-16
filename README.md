@@ -7,17 +7,17 @@
 - 📖 Always ready to learn new technologies in my IT specialization.
 
 🗺️ **My knowledges**:
-- **Languages**: `Java 8`, `C++`, and few other.
-- **Pure Java**: `Language Basics`, `OOP`, `Multi-threading & Async`, `Project Jigsaw`, `FF&M API`, `Cryptography`.
-- **Java Automation**: `Gradle`, `Maven`.
-- **Java Back-end**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
-- **Java Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `H2`, `SQLite`.
-- **Java Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`, `jpackage`.
-- **Java Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ORMLite`, `Logging Libs`.
-- **Java Testing**: `JUnit`.
-- **Dev-Ops**: `Github Actions`, `Linux Server`, `Bash`, `Batch`.
-- **Minecraft**: `Bukkit`, `Paper`, `Bungeecord`, `Velocity`, `Fabric`, `Forge`.
-- **Version Control**: `Git`, `GitHub`, `GitLab`.
+- 📢 **Languages**: `Java 8`, `C++`, and few other.
+- ☕ **Pure Java**: `Language Basics`, `OOP`, `Multi-threading & Async`, `Project Jigsaw`, `FF&M API`, `Cryptography`.
+- 🔧 **Java Automation**: `Gradle`, `Maven`.
+- ⚙️ **Java Back-end**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
+- 🗄️ **Java Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `H2`, `SQLite`.
+- 💻 **Java Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`, `jpackage`.
+- 📚 **Java Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ORMLite`, `Logging Libs`.
+- 🪲 **Java Testing**: `JUnit`.
+- 🛠️ **Dev-Ops**: `Github Actions`, `Linux Server`, `Bash`, `Batch`.
+- ⛏️ **Minecraft**: `Bukkit`, `Paper`, `Bungeecord`, `Velocity`, `Fabric`, `Forge`.
+- 🏷️ **Version Control**: `Git`, `GitHub`, `GitLab`.
 
 🤝 **Interested in cooperating in**:
 - ⛏️ Minecraft plugins and projects.
