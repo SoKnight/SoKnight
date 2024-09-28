@@ -7,7 +7,7 @@
 - 📖 Always ready to learn new technologies in my IT specialization.
 
 🗺️ **My knowledges**:
-- 📢 **Languages**: `Java 8`, `C++`, and few other.
+- 📢 **Languages**: `Java`, `C++`, and few other.
 - ☕ **Pure Java**: `Language Basics`, `OOP`, `Multi-threading & Async`, `Project Jigsaw`, `FF&M API`, `Cryptography`.
 - 🔧 **Java Automation**: `Gradle`, `Maven`.
 - ⚙️ **Java Back-end**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
