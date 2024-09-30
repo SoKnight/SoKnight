@@ -13,10 +13,10 @@
 - ⚙️ **Java Back-end**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
 - 🗄️ **Java Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `H2`, `SQLite`.
 - 💻 **Java Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`, `jpackage`.
-- 📚 **Java Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ORMLite`, `Logging Libs`.
+- 📚 **Java Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ASM`, `ORMLite`, `Logging Libs`.
 - 🪲 **Java Testing**: `JUnit`.
 - 🛠️ **Dev-Ops**: `Github Actions`, `Linux Server`, `Bash`, `Batch`.
-- ⛏️ **Minecraft**: `Bukkit`, `Paper`, `Bungeecord`, `Velocity`, `Fabric`, `Forge`.
+- ⛏️ **Minecraft**: `Bukkit`, `Paper`, `Bungeecord`, `Velocity`, `Fabric`, `Forge`, `Mixins`.
 - 🏷️ **Version Control**: `Git`, `GitHub`, `GitLab`.
 
 🤝 **Interested in cooperating in**:
