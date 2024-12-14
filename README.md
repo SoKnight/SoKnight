@@ -10,9 +10,9 @@
 - 📢 **Languages**: `Java`, `C++`, and few other.
 - ☕ **Pure Java**: `Language Basics`, `OOP`, `Multi-threading & Async`, `Project Jigsaw`, `FF&M API`, `Cryptography`.
 - ⚙️ **Java Back-end**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
-- 🔧 **Java Build Tools**: `Gradle`, `Maven`.
+- 🔧 **Java Build Tools**: `Gradle`, `Maven`, `jlink`, `jpackage`.
 - 🗄️ **Java Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `H2`, `SQLite`.
-- 💻 **Java Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`, `jpackage`.
+- 💻 **Java Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`.
 - 📚 **Java Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ASM`, `ORMLite`, `Logging Libs`.
 - 🪲 **Java Testing**: `JUnit`.
 - 🛠️ **Dev-Ops**: `Github Actions`, `Linux Server`, `Bash`, `Batch`.
