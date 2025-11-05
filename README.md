@@ -1,7 +1,7 @@
 # Hi there, I'm Konstantin 👋
 
 👨‍💻 **About me**:
-- 🎯 I’m a **Java Developer** with **5+ years** of experience in developing various solutions.
+- 🎯 I’m a **Java/Kotlin Developer** with **5+ years** of experience in developing various solutions.
 - 🚀 Currently working on a large standalone Desktop application with a **complex architecture**.
 - 🎓 Pursuing a bachelor's degree in *Applied Mathematics and Computer Science* at *Perm State University*.
 - 📖 Always ready to learn new technologies in my IT specialization.
@@ -21,8 +21,8 @@
 
 🤝 **Interested in cooperating in**:
 - ⛏️ Minecraft plugins and projects.
-- ⚙️ Java Back-end solutions.
-- 💻 Java Desktop apps.
+- ⚙️ Kotlin/Java backend solutions.
+- 💻 Kotlin/Java desktop apps.
 
 📫 **How to reach me**:
 - Telegram: [@soknight](https://t.me/soknight)
