@@ -7,17 +7,17 @@
 - 📖 Always ready to learn new technologies in my IT specialization.
 
 🗺️ **My knowledges**:
-- 📢 **Languages**: `Java`, `C++`, and few other.
-- ☕ **Pure Java**: `Language Basics`, `OOP`, `Multi-threading & Async`, `Project Jigsaw`, `FF&M API`, `Cryptography`.
-- ⚙️ **Java Back-end**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
-- 🔧 **Java Build Tools**: `Gradle`, `Maven`, `jlink`, `jpackage`.
-- 🗄️ **Java Databases**: `PostgreSQL`, `MariaDB`, `MySQL`, `H2`, `SQLite`.
-- 💻 **Java Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`.
-- 📚 **Java Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ASM`, `ORMLite`, `Logging Libs`.
-- 🪲 **Java Testing**: `JUnit`.
+- 📢 **Languages**: `Java`, `Kotlin`, `C++`, and few other.
+- ☕ **Pure JVM**: `Language Basics`, `OOP`, `EOP`, `Multi-threading & Async`, `Jigsaw`, `FFM API`, `Cryptography`.
+- ⚙️ **Backend**: `Spring Framework`, `Netty`, `Spring MVC`, `Spring Data JPA`, `Hibernate`, `Thymeleaf`, `OAuth 2.1`.
+- 🔧 **Build Tools**: `Gradle`, `Maven`, `jlink`, `jpackage`.
+- 🗄️ **Databases**: `PostgreSQL`, `Redis`, `MariaDB`, `MySQL`, `H2`, `SQLite`.
+- 💻 **Desktop**: `JavaFX`, `OpenGL`, `Native Features (JNA/JFA)`.
+- 📚 **Libraries**: `Retrofit`, `OkHttp`, `Jackson`, `ASM`, `Kotlin Coroutines`, `ORMLite`, `Logback`.
+- 🪲 **Testing**: `JUnit`.
 - 🛠️ **Dev-Ops**: `Github Actions`, `Linux Server`, `Bash`, `Batch`.
 - ⛏️ **Minecraft**: `Bukkit`, `Paper`, `Bungeecord`, `Velocity`, `Fabric`, `Forge`, `Mixins`.
-- 🏷️ **Version Control**: `Git`, `GitHub`, `GitLab`.
+- 🏷️ **VCS**: `Git`, `GitHub`, `GitLab`.
 
 🤝 **Interested in cooperating in**:
 - ⛏️ Minecraft plugins and projects.
@@ -28,3 +28,5 @@
 - Telegram: [@soknight](https://t.me/soknight)
 - VKontakte: [@soknight](https://vk.me/soknight)
 - X (Twitter): [@SoKnightMF](https://x.com/SoKnightMF)
+
+![](https://komarev.com/ghpvc/?username=SoKnight&label=Amazing+People+Were+Here&style=for-the-badge&color=blueviolet&abbreviated=true)
