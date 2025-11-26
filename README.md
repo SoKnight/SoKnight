@@ -5,6 +5,7 @@
 - 🚀 Currently working on a large standalone Desktop application with a **complex architecture**.
 - 🎓 Pursuing a bachelor's degree in *Applied Mathematics and Computer Science* at *Perm State University*.
 - 📖 Always ready to learn new technologies in my IT specialization.
+- 💸 I can reproduce the sound of a money counting machine 😎
 
 🗺️ **My knowledges**:
 - 📢 **Languages**: `Java`, `Kotlin`, `C++`, and few other.
