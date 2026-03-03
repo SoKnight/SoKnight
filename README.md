@@ -28,7 +28,6 @@
 
 📫 **How to reach me**:
 - Telegram: [@soknight](https://t.me/soknight)
-- VKontakte: [@soknight](https://vk.me/soknight)
 - X (Twitter): [@SoKnightMF](https://x.com/SoKnightMF)
 
 ![](https://komarev.com/ghpvc/?username=SoKnight&label=Amazing+People+Were+Here&style=for-the-badge&color=blueviolet&abbreviated=true)
