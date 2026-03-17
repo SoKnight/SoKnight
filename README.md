@@ -1,7 +1,7 @@
 # Hi there, I'm Konstantin 👋
 
 👨‍💻 **About me**:
-- 🎯 I’m a **Java/Kotlin Developer** with **6+ years** of experience in developing various solutions.
+- 🎯 I’m a **Java/Kotlin Developer** with **7+ years** of experience in developing various solutions.
 - 🚀 Currently working on a large standalone Desktop application with a **complex architecture**.
 - 🎓 Pursuing a bachelor's degree in *Applied Mathematics and Computer Science* at *Perm State University*.
 - 📖 Always ready to learn new technologies in my IT specialization.
