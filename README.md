@@ -21,7 +21,7 @@
 - ⛏️ **Minecraft**: `Bukkit`, `Paper`, `BungeeCord`, `Velocity`, `Fabric`, `Forge`, `Mixins`
 
 🤝 **Let's build something**:
-- ⚙️ Kotlin backend that scales
+- ⚙️ Kotlin/Java backend that scales
 - 💻 Desktop apps that don't look like 2005
 - ⛏️ Minecraft plugins & tooling
 - 💸 ...or just hire me for the money machine sound
