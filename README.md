@@ -4,7 +4,7 @@
 - 🎯 **Java/Kotlin Developer**, **7+ years** of turning coffee into JVM bytecode.
 - 🚀 Building a large standalone Desktop app with **architecture so complex** even I keep a map.
 - 🎓 BSc in *Applied Mathematics and Computer Science*, *Perm State University*.
-- ♻️ Wrote Java once — been thanking Kotlin ever since.
+- ♻️ I wrote Java so I could appreciate Kotlin more.
 - 🧵 Virtual threads, real problems.
 - 💸 Certified money counting machine sound reproducer 😎
 
